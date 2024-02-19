@@ -51,6 +51,8 @@ main {
     padding: 0 0 0 40px;
 }
 
+/* https://www.npmjs.com/package/eleventy-plugin-svg-sprite */
+
 .details ul li.wifi {
     background: url('../icons/wifi-solid.svg') no-repeat center left;
 }
